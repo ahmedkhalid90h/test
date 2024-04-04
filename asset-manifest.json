@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/test-page/static/css/main.a14a5533.css",
+    "main.js": "/test-page/static/js/main.54d69057.js",
+    "static/media/EG-ar-20240326-popsignuptwoweeks-perspective_alpha_website_small.jpg": "/test-page/static/media/EG-ar-20240326-popsignuptwoweeks-perspective_alpha_website_small.bae488adeed4e2746ce5.jpg",
+    "index.html": "/test-page/index.html",
+    "main.a14a5533.css.map": "/test-page/static/css/main.a14a5533.css.map",
+    "main.54d69057.js.map": "/test-page/static/js/main.54d69057.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a14a5533.css",
+    "static/js/main.54d69057.js"
+  ]
+}
